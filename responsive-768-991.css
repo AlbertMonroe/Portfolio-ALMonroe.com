@@ -1,0 +1,242 @@
+/* ////////////////////////////////////////////////////// */
+/* CSS | responsive-768-991 ///////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+body {
+    background-repeat: no-repeat;
+    background-position: top 0px center;
+    background-color: #91def4;
+    font-family: arial, verdana;
+}
+
+body.content-bg-735, body.content-bg-540, body.content-bg-home, body.content-bg-about {
+  background-image: url("../images/core-website/content-tile.jpg");
+    background-repeat: repeat;
+    background-position: top 0px left;
+}
+/* ////////////////////////////////////////////////////// */
+/* START HEADER ///////////////////////////////////////// */
+
+/* HEADER CONTAINER ///////////////////////////////////// */
+.header-1 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* LOGO ///////////////////////////////////////////////// */
+div.logo-wrapper {
+
+  width: 170px;
+  height: 75px;
+  float: left;
+  margin-top: 20px;
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.logo {
+  width: 100%;
+  height: 75px;
+}
+
+.logo span {
+  width: 100%;
+  height: 75px;
+}
+
+.logo-default, .logo-hover { 
+  background-image: url("../images/core-website/logo-sprites-medium.png");
+  background-repeat: no-repeat;
+}
+
+.logo-hover {
+  background-position: -170px 0px;
+  opacity: 0;
+}
+
+/* HEADER CONTENT /////////////////////////////////////// */
+nav.social-section {
+  background-image: url("../images/core-website/social-background.png");
+  margin-top: 5px;
+  margin-right: 0px;
+  float: right;
+  width: 180px;
+  height: 30px;
+}
+
+/* END HEADER /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START NAVIGATION ///////////////////////////////////// */
+div.nav-wrapper {
+  height: 55px;
+  margin-top: 5px;
+}
+
+ul.top-nav > li > a {
+  width: 100%;
+  height: 50px;
+  border-left: 1px solid #fff;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+}
+
+.active-page {
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  height: 50px;
+  border-left: 1px solid #fff;
+}
+
+/* END NAVIGATION /..//////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START INTRO CONTENT ////////////////////////////////// */
+
+.intro-text {
+  margin: 0 auto; 
+  max-width: 990px;
+  width: 100%;
+}
+
+.intro-text h1 {
+  font-size: 3em;
+  text-shadow: 1px 1px 1px #333;
+}
+
+.intro-text h2 {
+
+  font-size: 2em;  
+  text-shadow: 1px 1px 1px #333;
+}
+
+.home-p {
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+  font-size: 20px;  
+  text-shadow: 1px 1px 1px #333;
+  font-weight: bold;
+}
+
+/* END INTRO CONTENT //////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START MAIN CONTENT /////////////////////////////////// */
+
+.full-web-content {
+  background-image: url("../images/core-website/content-inner.jpg");
+}
+
+
+/* USE FOR ALL MODULES / NOT ITEM SPECIFIC // */
+div.modules {
+  width: 260px;
+  height: 180px;
+}
+
+.box-adjust {
+  padding: 0px;
+  margin: 0 6% 50px 6%;
+  float: left;
+}
+
+/* /////////////// */
+/* START ABOUT PAGE */
+.about-title {
+  padding-left: 4%;
+  padding-right: 4%;
+
+}
+
+.about-description {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.about-list {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+/* END ABOUT PAGE */
+
+/* //////////////////////// */
+/* START OPEN MODAL /////// */
+
+p.modal-title {
+  padding-left: 4%;
+  padding-right: 4%;
+
+}
+
+p.modal-description {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.modal-list {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+/* END OPEN MODAL ///////// */
+/* //////////////////////// */
+
+/* END MAIN CONTENT ///////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START FOOTER ///////////////////////////////////////// */
+
+.footer-1 {
+  max-width: 720px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.footer-left {
+  margin-left: 10px;
+}
+
+/* END FOOTER /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START MODALS ///////////////////////////////////////// */
+
+
+
+/* END MODALS /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

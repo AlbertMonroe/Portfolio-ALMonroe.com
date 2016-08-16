@@ -1,0 +1,279 @@
+/* ////////////////////////////////////////////////////// */
+/* CSS | responsive-000-480 ///////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+body {
+    background-repeat: repeat;
+    background-color: #91def4;
+    font-family: arial, verdana;
+}
+
+
+body.content-bg-735, body.content-bg-540, body.content-bg-home, body.content-bg-about {
+	background-image: url("../images/core-website/content-tile.jpg");
+    background-repeat: repeat;
+    background-position: top 0px left;
+}
+
+
+/* ////////////////////////////////////////////////////// */
+/* START HEADER ///////////////////////////////////////// */
+
+/* HEADER CONTAINER ///////////////////////////////////// */
+
+.header-large {
+	display: none;
+}
+
+.navbar-toggle {
+	background-color: #fff;
+}
+
+/* LOGO ///////////////////////////////////////////////// */
+
+/* LOGO */
+
+div.logo-wrapper {
+
+	width: 133px;
+	height: 50px;
+	float: left;
+	margin-top: 8px;
+	padding-left: 0px;
+	margin-left: 15px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+}
+
+.logo {
+	width: 100%;
+	height: 50px;
+}
+
+.logo span {
+	width: 100%;
+	height: 50px;
+	display: block;
+	position: absolute;
+}
+
+.logo-hover {
+	background-position: -133px 0px;
+	opacity: 0;
+}
+
+
+.logo-default, .logo-hover { 
+	background-image: url("../images/core-website/logo-sprites-small.png");
+}
+
+
+
+/* HEADER CONTENT /////////////////////////////////////// */
+
+
+
+/* END HEADER /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START NAVIGATION ///////////////////////////////////// */
+
+.mobile-nav-section {
+	display: block;
+}
+
+.header-1 {
+	display: none;
+}
+
+.nav-bar-large {
+	display: none;
+}
+
+.mobile-nav-section {
+	display: block;
+}
+
+.nav-bar-larg {
+	display: none;
+}
+
+/* END NAVIGATION /..//////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START INTRO CONTENT ////////////////////////////////// */
+
+
+
+/* END INTRO CONTENT //////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START MAIN CONTENT /////////////////////////////////// */
+
+.full-web-content {
+	background-image: url("../images/core-website/content-inner.jpg");
+}
+
+
+.box-adjust {
+  padding: 0px;
+  margin: 0 auto 50px;
+}
+
+.intro-text {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.modules {
+	width: 100%;
+	padding: 0px;
+}
+
+/* /////////////// */
+/* START ABOUT PAGE */
+.about-title {
+	font-size: 20px;
+	padding-left: 4%;
+	padding-right: 4%;
+
+}
+
+.about-description {
+	font-size: 18px;
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+.about-list {
+	font-size: 18px;
+	padding-left: 4%;
+	padding-right: 4%;
+}
+/* END ABOUT PAGE */
+
+
+/* //////////////////////// */
+/* START OPEN MODAL /////// */
+
+p.modal-image-title {	
+	font-size: 20px;
+}
+
+p.modal-title {
+	font-size: 20px;
+	padding-left: 4%;
+	padding-right: 4%;
+
+}
+
+p.modal-description {
+	font-size: 18px;
+	padding-left: 4%;
+	padding-right: 4%;
+
+}
+
+.modal-list {
+	font-size: 18px;
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+/* END OPEN MODAL ///////// */
+/* //////////////////////// */
+
+
+
+
+
+/* END MAIN CONTENT ///////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START FOOTER ///////////////////////////////////////// */
+
+.show-copy1 {
+	display: none;
+}
+
+.show-copy2 {
+	display: inline-block;
+}
+
+.footer-1 {
+	width: 93%;
+	margin: 0 auto;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.footer-left {
+	font-size: 12px;
+
+}
+
+.footer-text {
+	padding: 0px;
+	margin-left: 5px;
+}
+
+.social-section-footer {
+	float: right;
+	width: 160px;
+	padding-left: 0px;
+}
+
+
+.modules-contact {
+	float: right;
+	margin-right: 10px;
+}
+
+
+.social-linkedin-2 {
+	float: right;
+	margin-right: -5px;
+}
+
+
+.social-git-2 {
+	float: right;
+	margin-right: 10px;
+}
+
+
+
+/* END FOOTER /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START MODALS ///////////////////////////////////////// */
+
+
+
+/* END MODALS /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

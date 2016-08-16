@@ -1,0 +1,175 @@
+/* ////////////////////////////////////////////////////// */
+/* CSS | responsive-992-1199 //////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+body {
+    background-repeat: no-repeat;
+    background-position: top 0px center;
+    background-color: #91def4;
+    font-family: arial, verdana;
+	z-index: 1;
+}
+
+body.content-bg-735, body.content-bg-540, body.content-bg-home, body.content-bg-about {
+	background-image: url("../images/core-website/content-tile.jpg");
+    background-repeat: repeat;
+    background-position: top 0px left;
+}
+
+
+
+/* ////////////////////////////////////////////////////// */
+/* START HEADER ///////////////////////////////////////// */
+
+/* HEADER CONTAINER ///////////////////////////////////// */
+.header-1 {
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+	padding: 0px;
+}
+
+/* LOGO ///////////////////////////////////////////////// */
+div.logo-wrapper {
+	width: 200px;
+	height: 75px;
+	float: left;
+	margin-top: 20px;
+	padding-left: 0px;
+}
+
+/* HEADER CONTENT /////////////////////////////////////// */
+
+
+
+/* END HEADER /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START NAVIGATION ///////////////////////////////////// */
+
+/* START NAVIGATION BAR ///////////////////// */
+div.nav-wrapper {
+	height: 30px;
+	float: right;
+	margin-top: 11px;
+}
+
+div.nav-wrapper ul {			
+	padding: 0px;
+	float: right;
+}
+
+/* END NAVIGATION /..//////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START INTRO CONTENT ////////////////////////////////// */
+
+.intro-text {
+	margin: 0 auto;	
+	width: 100%;
+}
+
+.intro-text h1 {
+
+	text-shadow: 1px 1px 1px #333;
+}
+
+.intro-text h2 {
+	
+	font-size: 28px;	
+	text-shadow: 1px 1px 1px #333;
+}
+
+.home-p {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-size: 20px;	
+	text-shadow: 1px 1px 1px #333;
+	font-weight: bold;
+}
+
+/* END INTRO CONTENT //////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START MAIN CONTENT /////////////////////////////////// */
+
+
+
+.full-web-content {
+	background-image: url("../images/core-website/content-inner.jpg");
+}
+
+
+
+.-full-web-content h2 {
+	font-size: 24px;	
+	text-shadow: 1px 1px 1px #333;
+}
+
+
+
+/* USE FOR ALL MODULES / NOT ITEM SPECIFIC // */
+div.modules {
+	width: 260px;
+	height: 180px;
+}
+
+.box-adjust {
+	padding: 0px;
+	margin: 0 2.3% 50px 2.3%;
+	float: left;
+}
+
+
+
+
+
+
+/* END MAIN CONTENT ///////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START FOOTER ///////////////////////////////////////// */
+.footer-1 {
+	max-width: 940px;
+	height: 50px;
+	background-color: rgba(0, 0, 0, 0.6);
+	margin: 0 auto;
+	padding: 10px 0;
+}
+
+/* END FOOTER /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+/* ////////////////////////////////////////////////////// */
+/* START MODALS ///////////////////////////////////////// */
+
+
+
+/* END MODALS /////////////////////////////////////////// */
+/* ////////////////////////////////////////////////////// */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
